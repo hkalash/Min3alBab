@@ -21,6 +21,7 @@ import static android.nfc.NdefRecord.createMime;
 public class MainActivity extends AppCompatActivity {
     NfcAdapter nfcAdapter;
     TextView textView;
+    // we comment this to test git
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
