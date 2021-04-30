@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
     // second` comment
     TextView textView;
     // we comment this to test git
+    // thrird comment
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
