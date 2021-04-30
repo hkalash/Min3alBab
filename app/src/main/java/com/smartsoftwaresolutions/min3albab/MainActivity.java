@@ -20,7 +20,7 @@ import static android.nfc.NdefRecord.createMime;
 
 public class MainActivity extends AppCompatActivity {
     NfcAdapter nfcAdapter;
-    // second comment
+    // second` comment
     TextView textView;
     // we comment this to test git
     @Override
